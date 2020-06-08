@@ -1,0 +1,48 @@
+html, body {
+    background-color: #fff;
+    color: #636b6f;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 200;
+    height: 100vh;
+    margin: 0;
+}
+a
+{
+    color: #636b6f;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+a:hover
+{
+    background-color: rgb(87, 46, 46);
+    color:white;
+}
+.topnav {
+    overflow: hidden;
+    background-color: rgb(18, 3, 58);
+  }
+  
+  .topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
+  #logo
+  {
+      float: left;
+      font-size: 20px;
+  }

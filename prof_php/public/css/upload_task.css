@@ -1,0 +1,46 @@
+.info
+{
+    position: absolute;
+    left: 30%;
+    right: 35%;
+    top: 10%;
+    width:30%;
+    text-align: center;
+    font-size: 120%;
+    border-style: groove;
+    border-color: rgb(18, 3, 58);
+    border-radius: 25%;
+    padding: 3%;
+    background-color: rgb(18, 3, 58);
+    color:white;
+    
+}
+.form
+{
+    position: absolute;
+    left: 30%;
+    right: 35%;
+    top: 35%;
+    width:30%;
+    
+    padding: 3%;
+    text-align: center;
+}
+.btn
+{
+    border-style: groove;
+    border-color: rgb(18, 3, 58);
+    border-radius: 100px;
+    padding: 3%;
+    font-size: 200%;
+    background-color: rgb(18, 3, 58);
+    color:white; 
+}
+.upload
+{
+    border-style: groove;
+    border-color: rgb(18, 3, 58);
+    border-radius: 100px;
+    padding: 3%;
+    font-size: 100%;
+}

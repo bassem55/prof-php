@@ -1,0 +1,39 @@
+.first_section
+{
+    margin-top: 100px;
+    background-color: rgb(21, 12, 58);
+    color:white;
+    text-align: center;
+
+}
+.secand_section
+{
+    margin-top: 100px;
+    background-color: white;
+    color:rgb(21, 12, 58);
+    text-align: center;
+}
+.title
+{
+    font-size: 35px;
+    color:rgb(117, 182, 12);
+    text-align: center;
+    margin-top: 40px;
+}
+.txt
+{
+    text-align: center;
+    font-size: 25px;
+}
+.steps
+{
+    margin-top: 20px;
+}
+.sp_link
+{
+    background-color: rgb(21, 12, 58);
+    color:white;
+    width:100px;
+    height: 50px;
+    font-size: 25px;
+}

@@ -1,0 +1,48 @@
+.tasks_area
+{
+    position: absolute;
+    left: 15%;
+    right: 15%;
+    top: 20%;
+    border-style: groove;
+    border-color:rgb(18, 3, 58);
+    border-radius: 25%;
+    
+}
+.tasks
+{
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-right: 3%;
+    margin-bottom: 5%;
+}
+.btn_task
+{
+    display: inline-block;  
+    width:18%;
+    height: 50px;
+    font-size: 140%;
+    background-color: rgb(18, 3, 58);
+    color:white;
+    border-radius: 25%;
+    text-align: center;
+    padding-top: 15px;
+    
+}
+#degree
+{
+    display: none;
+    margin-left: 15%;
+    margin-top: 5%;
+    margin-right: 15%;
+    margin-bottom: 10%;
+    border-style: groove;
+    border-color: rgb(18, 3, 58);
+    border-radius: 25%;
+    padding: 3%;
+    font-size: 140%;
+    text-align: center;
+    background-color: rgb(18, 3, 58);
+    color:white;
+
+}
